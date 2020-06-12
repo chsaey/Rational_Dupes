@@ -1,0 +1,15 @@
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\bin\Debug\Duplicates.exe.config
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\bin\Debug\Duplicates.exe
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\bin\Debug\Duplicates.pdb
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates.csprojAssemblyReference.cache
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates.g.cs
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\App.g.cs
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates_MarkupCompile.cache
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates_MarkupCompile.lref
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates.baml
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates.g.resources
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates.Properties.Resources.resources
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates.csproj.GenerateResource.cache
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates.exe
+C:\Users\v-chsaey\source\repos\Duplicates\Duplicates\obj\Debug\Duplicates.pdb

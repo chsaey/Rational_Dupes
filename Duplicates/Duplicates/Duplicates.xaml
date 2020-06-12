@@ -1,0 +1,17 @@
+﻿<Window x:Class="Duplicates.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Duplicates"
+        mc:Ignorable="d"
+        Title="Duplicates" Height="450" Width="800">
+    <Grid>
+        <Button Content="Get Duplicate List" HorizontalAlignment="Left" Margin="339,322,0,0" VerticalAlignment="Top" Width="111" Height="48" Click="Button_Click_1"/>
+        <Button Content="Get Unique List" HorizontalAlignment="Left" Margin="339,221,0,0" VerticalAlignment="Top" Width="111" Height="48" Click="Button_Click"/>
+        <TextBox AcceptsReturn ="true" HorizontalAlignment="Left" Height="372" Margin="10,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="286" Name="input" Text="" TextChanged="Input_TextChanged" />
+        <TextBox AcceptsReturn ="true" HorizontalAlignment="Left" Height="372" Margin="498,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="286" Name ="output" />
+        <Label Content="Combined Subscriptions" HorizontalAlignment="Left" Margin="10,12,0,0" VerticalAlignment="Top" Width="286"/>
+        <Label x:Name="listType" Content="" HorizontalAlignment="Left" Margin="498,10,0,0" VerticalAlignment="Top" Width="286"/>
+    </Grid>
+</Window>
