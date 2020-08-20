@@ -2,7 +2,7 @@
 This tool was created to provide an easy way to remove duplicates or find unique items in lists. It's a desktop application made with C#.
 
 ## Remove Duplicates
-Often on the job, we're needing to remove duplcate entries from a list. While we could do this in excel, this simplifies the task.
+Often on the job, we're needing to remove duplicate entries from a list. While we could do this in excel, this simplifies the task.
 
 ![Imgur](https://i.imgur.com/vVrSxUy.png)
 
